@@ -2,8 +2,8 @@ Fundamental and Basic Learning of C++. These is including Theoritically and Prac
 
 <---> NOTES :
 
-.md Only used for a theory
-.py Only used for a practical
+- .md Only used for a theory
+- .py Only used for a practical
 
 <---> SOURCE :
 - (Website) TLX (https://tlx.toki.id/courses)
